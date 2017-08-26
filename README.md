@@ -11,12 +11,6 @@ Welcome to Machine Learning 101! Let's get started (:
 6. `jupyter notebook --ip=0.0.0.0`
 7. Ctrl+b d; exit
 
-## For ACT-W you can use the following setup:
-1. https://tinyurl.com/y97f9ypd
-2. https://tinyurl.com/ydhstgv9
-3. https://tinyurl.com/ydfwm39h
-4. https://tinyurl.com/y7dofo2q
-
 # Resources
 Here are some aweome resources to use next!
 * Youtube:
@@ -30,3 +24,5 @@ Here are some aweome resources to use next!
 * Codelabs:
   * https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist
   * https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+* Notes about R2:
+  * https://www.youtube.com/watch?v=lng4ZgConCM
