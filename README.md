@@ -20,13 +20,13 @@ Welcome to Machine Learning 101! Let's get started (:
 # Resources
 Here are some aweome resources to use next!
 * Youtube:
- * [Introductory ML tutorial youtube series](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=1)
- * [This guy](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+  * [Introductory ML tutorial youtube series](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&index=1)
+  * [This guy](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * Blogs:
- * [One of my favorite ML blog series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+  * [One of my favorite ML blog series](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * Classes:
- * [Stanford](https://www.coursera.org/learn/machine-learning)
- * [Udacity](https://www.udacity.com/course/deep-learning--ud730)
+  * [Stanford](https://www.coursera.org/learn/machine-learning)
+  * [Udacity](https://www.udacity.com/course/deep-learning--ud730)
 * Codelabs:
- * https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist
- * https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+  * https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist
+  * https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
