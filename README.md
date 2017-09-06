@@ -11,6 +11,12 @@ Welcome to Machine Learning 101! Let's get started (:
 6. `jupyter notebook --ip=0.0.0.0`
 7. Ctrl+b d; exit
 
+### For today:
+* http://ec2-54-146-12-72.compute-1.amazonaws.com:8888
+* http://ec2-52-91-118-46.compute-1.amazonaws.com:8888
+* http://ec2-52-91-156-232.compute-1.amazonaws.com:8888
+* http://ec2-34-205-65-165.compute-1.amazonaws.com:8888
+
 # Resources
 Here are some aweome resources to use next!
 * Youtube:
