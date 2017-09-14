@@ -12,7 +12,7 @@ Welcome to Machine Learning 101! Let's get started (:
 7. Ctrl+b d; exit
 
 ### For today:
-* http://ec2-54-162-34-71.compute-1.amazonaws.com:8888/
+* http://ec2-54-162-34-71.compute-1.amazonaws.com:8888/notebooks/MachineLearning101.ipynb
 
 # Resources
 Here are some aweome resources to use next!
